@@ -47,7 +47,8 @@
     margin-bottom: 3rem;
 }
 .header .menu .content ul li a{
-    
+     text-decoration: none;
+    color: var(--main-color);
 }
 .header .menu .ico{
     left: 10%;
